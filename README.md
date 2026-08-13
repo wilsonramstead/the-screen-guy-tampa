@@ -13,7 +13,7 @@ A single-page demo site built for **The Screen Guy of Tampa, Inc.**, a pool scre
 - **Services:** pool screen enclosures / full pool-cage re-screens · panel & lanai re-screening (rolling-spline tool) · aluminum bars & structural rebuilds · screen doors, people-doors & pet/doggie doors, plus repairs
 
 ## Design (Tier 1 — Clean Slate)
-- **Fonts:** Contrail One (airy display sans) + Noto Serif Georgian (serif body), via Google Fonts — breezy, coastal, trustworthy.
+- **Fonts:** Oswald (condensed display) + Public Sans (body), via Google Fonts — clean, professional, trustworthy.
 - **Palette:** gulf teal + screen charcoal over lanai white, with a warm sunset-gold accent (from the hero) for stars and the headline highlight.
 - **Layout:** sticky header (call CTA flush right, icon-only ≤600px, hamburger mobile nav), full-bleed hero over a sunset screened pool enclosure with a slow Ken Burns settle, charcoal trust strip, four service cards, a "Why Tampa Bay calls The Screen Guy" feature band, a pull-quote, three real Google reviews, hours & service-area block, and a teal CTA band.
 - Scroll reveals use the finalized recipe (translateY + scale + blur, .8s ease, IntersectionObserver rootMargin bottom +12%), all gated behind `prefers-reduced-motion`.
